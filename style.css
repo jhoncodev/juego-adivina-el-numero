@@ -71,8 +71,8 @@ body::before {
     margin: 16px 0 16px 0;
 }
 
-.container__texto-azul {
-    color: #1875E8;
+.container__texto-negro {
+    color: #000000;
 }
 
 .container__input {
@@ -81,7 +81,7 @@ body::before {
     border-radius: 16px;
     background-color: #FFF;
     border: none;
-    color: #1875E8;
+    color: #000000;
     padding: 2rem;
     font-size: 24px;
     font-weight: 700;
