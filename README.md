@@ -46,7 +46,7 @@ Un juego simple hecho con HTML, CSS y JavaScript puro en el que debes adivinar u
 - Implementar niveles de dificultad.
 
 ## 🚀 Despliegue
-Puedes jugarlo accediendo a: ![Adivina el número](https://jhoncodev.github.io/juego-adivina-el-numero/)
+Puedes jugarlo accediendo a: [Adivina el número](https://jhoncodev.github.io/juego-adivina-el-numero/)
 
 ## 💡 Contribuciones
 Si tienes ideas para mejorar el juego, ¡no dudes en contribuir! Puedes hacer un fork del repositorio, modificar el código y abrir un pull request.
