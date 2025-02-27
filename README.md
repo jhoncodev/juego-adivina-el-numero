@@ -2,6 +2,9 @@
 
 Un juego simple hecho con HTML, CSS y JavaScript puro en el que debes adivinar un número secreto generado aleatoriamente. Tienes 5 intentos para acertar el número. ¡Pon a prueba tu suerte y lógica!
 
+## 🚀 Juegalo!
+Puedes jugarlo accediendo a: [Adivina el número](https://jhoncodev.github.io/juego-adivina-el-numero/)
+
 ## 🚀 Características
 - Interfaz sencilla y atractiva.
 - Número aleatorio entre 1 y 10.
@@ -44,9 +47,6 @@ Un juego simple hecho con HTML, CSS y JavaScript puro en el que debes adivinar u
 - Ajustar el diseño para pantallas pequeñas.
 - Agregar animaciones y efectos visuales.
 - Implementar niveles de dificultad.
-
-## 🚀 Despliegue
-Puedes jugarlo accediendo a: [Adivina el número](https://jhoncodev.github.io/juego-adivina-el-numero/)
 
 ## 💡 Contribuciones
 Si tienes ideas para mejorar el juego, ¡no dudes en contribuir! Puedes hacer un fork del repositorio, modificar el código y abrir un pull request.
